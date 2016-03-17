@@ -1,6 +1,8 @@
 # Summary
 
+* [Introduction](README.md)
 * [自序](chapter00/preface.md)
+   * 开学典礼
 * [第一讲：教不会的写作](chapter01/README.md)
    * [笔记](chapter01/note.md)
    * [作业](chapter01/assignment.md)
@@ -38,3 +40,4 @@
 * [参考文献](ps/ref.md)
 * [致谢](ps/thanks.md)
 * [后记](end/postscript.md)
+
