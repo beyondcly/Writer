@@ -14,7 +14,7 @@
    * [笔记](chapter02/note.md)
    * [最小模型](chapter02/最小模型.md)
    * [最小故事（上）](chapter02/最小故事（上）.md)
-   * [最小故事（下）](chapter02/zui_xiao_gu_shi_ff08_xia_ff09_md.md)
+   * [最小故事（下）](chapter02/最小故事（下）.md)
    * [最小行动](chapter02/zui_xiao_xing_52a8_md.md)
 * [第三讲：同一颗大脑](chapter03/README.md)
    * [笔记](chapter03/note.md)
